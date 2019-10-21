@@ -1,0 +1,133 @@
+[
+  {
+    "id":1,
+    "nom":"Télephones",
+    "image":"aurore.jpg",
+    "produits":[
+           {
+            "id": 1,
+            "nom": "iPhone 6",
+            "prix":35000,
+            "image": "assets/v.jpg",
+            "description":"Bonne performance",
+            "commande":[
+                      {
+                      "id":1,
+                      "quantite":4,
+                      "date":"18-10-2019",
+                      "status":true,
+                      "utilisateur": 
+                                    {
+                                  "id":1,
+                                  "nom":"GRACIENNE KATCHE"
+                                    }
+                                  
+                            },
+                            {
+                              "id":2,
+                              "quantite":4,
+                              "date":"18-10-2019",
+                              "status":true,
+                              "utilisateur": 
+                                            {
+                                          "id":2,
+                                          "nom":"GRACIENNE KATCHE"
+                                            }
+                                          
+                                    }
+                          ]
+            
+                },
+
+                {
+                  "id": 2,
+                  "nom": "iPhone 6",
+                  "prix":35000,
+                  "image": "assets/b.jpg",
+                  "description":"Bonne performance",
+                  "commande":[
+                            {
+                            "id":1,
+                            "quantite":4,
+                            "date":"18-10-2019",
+                            "status":true,
+                            "utilisateur": 
+                                          {
+                                        "id":1,
+                                        "nom":"GRACIENNE KATCHE"
+                                          }
+                                        
+                                  }
+                                ]
+                  
+                      }
+              ]
+                          
+  },
+
+  {
+    "id":2,
+    "nom":"Electroménagers",
+    "image":"v.jpg",
+    "produits":[
+           {
+            "id": 1,
+            "nom": "Machine à laver",
+            "prix":35000,
+            "image": "assets/b.jpg",
+            "description":"Bonne qualité",
+            "commande":[
+                      {
+                      "id":1,
+                      "quantite":4,
+                      "date":"19-10-2019",
+                      "status":true,
+                      "utilisateur": 
+                                    {
+                                  "id":1,
+                                  "nom":"Opportune KATCHE"
+                                    }
+                                  
+                            },
+                            {
+                              "id":2,
+                              "quantite":4,
+                              "date":"18-10-2019",
+                              "status":true,
+                              "utilisateur": 
+                                            {
+                                          "id":2,
+                                          "nom":"GRACIENNE KATCHE"
+                                            }
+                                          
+                                    }
+                          ]
+            
+                },
+
+                {
+                  "id": 2,
+                  "nom": "iPhone 7",
+                  "prix":35000,
+                  "image": "assets/v.jpg",
+                  "description":"Bonne performance",
+                  "commande":[
+                            {
+                            "id":1,
+                            "quantite":4,
+                            "date":"18-10-2019",
+                            "status":true,
+                            "utilisateur": 
+                                          {
+                                        "id":1,
+                                        "nom":"GRACIENNE KATCHE"
+                                          }
+                                        
+                                  }
+                                ]
+                  
+                      }
+              ]
+                          
+  } 
+]
